@@ -17,6 +17,10 @@ var quotes = []string{
 	"There better be a naked cheerleader under your bed!",
 	"What the hell kind of country is this where I can only hate a man if he’s white?",
 	"Why would anyone smoke weed when they could just mow a lawn?",
+	"Bobby, if you weren’t my son, I’d hug you.",
+	"He’s a football player, and football players know how to treat a woman right.",
+	"I’m gonna kick your ass!",
+	"If your sorority has to sell jam to buy beer, you’re drinking too much.",
 	"BWAAAAHH!",
 }
 
