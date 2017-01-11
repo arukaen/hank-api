@@ -18,6 +18,7 @@ You can build this project in two ways:
 To start the server: `./hank-api`
 
 To run the locally generated image:
+
 `docker run -p 8080:8080 hank-api:latest`
 
 `curl http://127.0.0.1:8080`
